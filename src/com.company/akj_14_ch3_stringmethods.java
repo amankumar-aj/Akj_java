@@ -32,7 +32,7 @@ public class akj_14_ch3_stringmethods {
         System.out.println(name.replace('n','r'));
         //Returns a new string after replacing n with r. Amar is returned in this case. (This method takes char as argument)
         System.out.println(name.replace("an","ha"));
-        //replace "an" with "isha" and return new string (Amha)
+        //replace "an" with "isha" and return new string ()
         System.out.println(n1.replace("a","ha"));
         //here it replace "a" with "isha" at all places where a is available.
 
